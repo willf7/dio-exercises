@@ -30,5 +30,7 @@ public class Exercise02 {
         } else if (imcResult >= 40) {
             System.out.println("Class III (Morbid) Obesity");
         }
+
+        scanner.close();
     }
 }

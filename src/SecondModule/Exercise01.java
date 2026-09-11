@@ -15,5 +15,7 @@ public class Exercise01 {
             int multiplicationResult = baseNumber * i;
             System.out.println(baseNumber + " x " + i  + " = " + multiplicationResult);
         }
+
+        scanner.close();
     }
 }

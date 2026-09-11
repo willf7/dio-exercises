@@ -15,5 +15,7 @@ public class Exercise04 {
         int ageDifference = Math.abs(firstAge - secondAge);
 
         System.out.println("The age difference is: " + ageDifference);
+
+        scanner.close();
     }
 }

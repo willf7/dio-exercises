@@ -15,5 +15,7 @@ public class Exercise03 {
         int area = base * size;
 
         System.out.println("The area of the rectangle is: " + area);
+
+        scanner.close();
     }
 }

@@ -12,5 +12,7 @@ public class Exercise02 {
         int area = size * size;
 
         System.out.println("The area of the square is: " + area);
+
+        scanner.close();
     }
 }
